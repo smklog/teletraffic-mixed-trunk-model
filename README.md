@@ -53,6 +53,6 @@ python traffic_model.py
 ---
 
 ## Author
-
-**Dmitrii Timin**  
-Teletraffic Engineering Researcher & Network Performance Analyst
+Original teletraffic research concept: 2003 (PhD dissertation)
+Python engineering implementation: 2026
+Author: Dmitrii Timin
