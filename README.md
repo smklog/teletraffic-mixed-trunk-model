@@ -50,5 +50,9 @@ The model computes:
 ```bash
 python traffic_model.py
 
+---
+
+## Author
+
 **Dmitrii Timin**  
 Teletraffic Engineering Researcher & Network Performance Analyst
