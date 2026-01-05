@@ -50,7 +50,7 @@ The model computes:
 ```bash
 python traffic_model.py
 
----
+'''
 
 ##Author 
 Original teletraffic research concept: **2003 (PhD dissertation)**  
