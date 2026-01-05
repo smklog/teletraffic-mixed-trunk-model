@@ -52,7 +52,7 @@ python traffic_model.py
 
 ---
 
-**Author**  
+##Author 
 Original teletraffic research concept: **2003 (PhD dissertation)**  
 Python engineering implementation: **2026**  
 Author: **Dmitrii Timin**
